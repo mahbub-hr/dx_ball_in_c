@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1465442118 source:c:\users\mahbub\desktop\dx\dx_ball\imain.cpp
+	"iGraphics.h"
+
+1462097368 c:\users\mahbub\desktop\dx\dx_ball\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
